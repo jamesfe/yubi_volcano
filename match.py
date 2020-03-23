@@ -1,3 +1,5 @@
+# Usage: python3 -m match <press yubikey to execute>
+
 from Levenshtein import distance as levenshtein_distance
 import argparse
 parser = argparse.ArgumentParser()
